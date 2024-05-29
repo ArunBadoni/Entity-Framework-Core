@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "SQLServerConnection": "Server=(localdb)\\MSSQLLocalDB;Database=EFCoreDB1;Trusted_Connection=True;TrustServerCertificate=True;"
+  }
+}
