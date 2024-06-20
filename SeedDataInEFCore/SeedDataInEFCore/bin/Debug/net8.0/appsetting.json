@@ -1,0 +1,3 @@
+{
+  "ConnectionString": { "SQLServerConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=MyDatabase;Integrated Security=True;Encrypt=True" }
+}
